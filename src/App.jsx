@@ -1,15 +1,14 @@
 import React from "react";
-
 // Importando Componentes 
-import Header from "././Components/header/header";
-import About from "./Components/about/about";
-import Nav from "./Components/nav/nav";
-import Experience from "./Components/experience/experience";
-import Portfolio from "./Components/portfolio/portfolio";
-import Services from "./Components/services/services";
-import Contact from "./Components/contact/contact";
-import Testimonials from "./Components/testimonials/testimonials";
-import Footer from "./Components/footer/footer";
+import Header from "./Components/headerr/header";
+import About from "./Components/aboutt/about";
+import Nav from "./Components/navv/nav";
+import Experience from "./Components/experiencee/experience";
+import Portfolio from "./Components/portfolioo/portfolio";
+import Services from "./Components/servicess/services";
+import Contact from "./Components/contactt/contact";
+import Testimonials from "./Components/testimonialss/testimonials";
+import Footer from "./Components/footerr/footer";
 
 
 const App = () => {
@@ -30,4 +29,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default App

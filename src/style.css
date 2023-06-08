@@ -39,10 +39,12 @@ body{
 
     font-family:'Bruno Ace', cursive;
     background: var(--color-bg);
+    min-height: 100vh;
     color: var(--color-white);
     line-height: 1.7;
     background-image: url(../src/assets/bg-texture5.png);
     backdrop-filter: blur(3px);
+
 }
 
 /* ******************* GENERAL STYLES ********************** */
